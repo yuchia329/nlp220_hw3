@@ -1,0 +1,1 @@
+zip -r nlp220_hw2.zip * -x ".DS_Store/*" -x "**__pycache__/*" -x "data/*" -x "graph/*" -x "run_baseline.py"

@@ -1,0 +1,6 @@
+Naive Bayes {'alpha': 0.100009816904796}
+SVM {'C': 1.48535831534593, 'loss': 'hinge'}
+extra tree 1 {'n_estimators': 77, 'criterion': 'gini', 'max_depth': 30, 'max_features': 'sqrt'}
+extra tree 2 {'n_estimators': 85, 'criterion': 'log_loss', 'max_depth': 142, 'max_features': 'sqrt'}
+decision tree 1 {'criterion': 'gini', 'max_depth': 10, 'max_features': 'log2'}
+decision tree 2 {'criterion': 'log_loss', 'max_depth': 1, 'max_features': 'sqrt'}
